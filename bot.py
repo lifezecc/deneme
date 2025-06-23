@@ -19,4 +19,4 @@ async def on_member_remove(member):
     except Exception as e:
         print(f"Hata: {e}")
 
-bot.run("MTM4NjQyMjg5ODg5MzM4OTg3NQ.Gz6Spl.Lt8jiTrR5rmNsg7e5cthCeWb4Z2xlO7EwqbD7Q")  # <-- kendi bot token'ını buraya gir
+bot.run("MTM4NjQyMjg5ODg5MzM4OTg3NQ.GusRFb.pTixxUNuGNOs_H20vBkw7Y4fkkLJKkqAmd7FQs")  # <-- kendi bot token'ını buraya gir
